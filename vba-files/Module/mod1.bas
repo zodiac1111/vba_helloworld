@@ -18,7 +18,7 @@ bar=j+2
 end function
 
 
-
+' 测试函数说明 with 中文
 function foo(i as integer)
 
 foo=i+1
