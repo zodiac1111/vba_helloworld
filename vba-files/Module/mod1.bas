@@ -23,6 +23,10 @@ Function foo(i As Integer)
 
 foo = i + 1
 
+Xdebug.printx foo
+
 End Function
+
+
 
 
