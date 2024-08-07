@@ -5,7 +5,7 @@
     "email": "",
     "create_ate": "Wed Aug 07 2024 21:13:18 GMT+0800 (中国标准时间)",
     "excel_file": "test_vba.xlsb",
-    "vba_folder": "vba-files",
+    "vba_folder": "test_vba",
     "ribbon_file": "customUI14",
     "ribbon_folder": "ribbons",
     "logs": "on",
