@@ -38,3 +38,11 @@ https://blog.csdn.net/JavaSEProgrammer/article/details/125785339
 文件---选项---信任中心---信任中心设置---宏设置---勾选启用所有宏---勾选信任对VBA工程对象模型的访问---确定
 
 查看 vba-files 脚本
+
+
+导出:
+
+![](./imgs/5.png)
+
+开发版?
+![](./imgs/6.png)
