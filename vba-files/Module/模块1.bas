@@ -1,5 +1,5 @@
-Attribute VB_Name = "Ä£¿é1"
+Attribute VB_Name = "Ä£ï¿½ï¿½1"
 Sub e()
 
-MsgBox (1)
+MsgBox (12)
 End Sub
