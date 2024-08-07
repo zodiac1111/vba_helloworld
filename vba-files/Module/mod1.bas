@@ -9,7 +9,7 @@ MsgBox (a)
 End Sub
 
 
-' 娴嬭瘯鍑芥暟璇存槑 with 涓枃
+' 测试函数说明 with 中文
 
 function bar(j as integer)
 
@@ -18,7 +18,7 @@ bar=j+2
 end function
 
 
-' 娴嬭瘯鍑芥暟璇存槑 with 涓枃
+' 测试函数说明 with 中文
 function foo(i as integer)
 
 foo=i+1
