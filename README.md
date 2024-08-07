@@ -46,3 +46,18 @@ https://blog.csdn.net/JavaSEProgrammer/article/details/125785339
 
 开发版?
 ![](./imgs/6.png)
+
+打开xlsb文件
+
+显示一片空白 参考:
+https://blog.csdn.net/bush4/article/details/137072108
+
+第13步
+
+![](./imgs/7.png)
+
+![](./imgs/8.png)
+
+显示了:
+
+![](./imgs/9.png)
