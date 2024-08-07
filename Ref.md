@@ -52,3 +52,12 @@ https://note.com/kiyo_ai_note/n/n9653e7238c49
 因此: 
 * sheet 内容在Excel文件中保存
 * 代码 在 代码文件中保存
+
+
+## debug print
+
+立即窗口
+
+`Xdebug.printx foo`
+
+![](./imgs/12.png)
