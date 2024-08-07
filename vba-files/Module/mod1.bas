@@ -9,6 +9,13 @@ MsgBox (a)
 End Sub
 
 
+' 测试函数说明 with 中文
+
+function bar(j as integer)
+
+bar=j+2
+
+end function
 
 
 
