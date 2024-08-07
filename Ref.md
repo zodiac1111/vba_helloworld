@@ -45,13 +45,13 @@ https://note.com/kiyo_ai_note/n/n9653e7238c49
 
 中文可以试试 GBK
 
-![](./imgs/10.png)
+![](imgs/10.png)
 
 
 ## 直接运行宏
 
 
-![](./imgs/11.png)
+![](imgs/11.png)
 
 ## 修改sheet 内容
 
@@ -72,7 +72,7 @@ https://note.com/kiyo_ai_note/n/n9653e7238c49
 
 `Xdebug.printx foo`
 
-![](./imgs/12.png)
+![](imgs/12.png)
 
 ## 信任中心
 
