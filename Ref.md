@@ -1,6 +1,6 @@
 # 参考资料
 
-
+## 介绍
 
 xvba 
 https://marketplace.visualstudio.com/items?itemName=local-smart.excel-live-server
@@ -11,6 +11,12 @@ xvba 日语介绍
 * https://note.com/kiyo_ai_note/n/n8a3ed2c32906
 * https://note.com/kiyo_ai_note/n/n9653e7238c49
 
+
+英语视频介绍: https://www.youtube.com/watch?v=ZjZ1lgzsNXE
+
+
+
+
 安装插件`serkonda7.vscode-vba`
 
 自动补全
@@ -18,7 +24,7 @@ xvba 日语介绍
 
 Ctrl+S 会自动导出? 如果启动xvba-server??
 
-## 文字乱码
+## 文字乱码问题
 
 https://note.com/kiyo_ai_note/n/n9653e7238c49
 
@@ -34,3 +40,15 @@ https://note.com/kiyo_ai_note/n/n9653e7238c49
 
 
 ![](./imgs/11.png)
+
+## 修改sheet 内容
+
+打开Excel, 修改Sheet 内容
+
+保存Excel, 关闭
+
+导出Excel, 保存内容还是存在的.
+
+因此: 
+* sheet 内容在Excel文件中保存
+* 代码 在 代码文件中保存
