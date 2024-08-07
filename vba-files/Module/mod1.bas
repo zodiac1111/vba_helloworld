@@ -1,9 +1,9 @@
 Attribute VB_Name = "mod1"
 Sub e()
 
-dim a as integer
-a=1
-a=foo(a)
+Dim a As Integer
+a = 1
+a = foo(a)
 MsgBox (a)
 
 End Sub
@@ -11,18 +11,18 @@ End Sub
 
 ' 测试函数说明 with 中文
 
-function bar(j as integer)
+Function bar(j As Integer)
 
-bar=j+2
+bar = j + 2
 
-end function
+End Function
 
 
 ' 测试函数说明 with 中文
-function foo(i as integer)
+Function foo(i As Integer)
 
-foo=i+1
+foo = i + 1
 
-End function
+End Function
 
 
