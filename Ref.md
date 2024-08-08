@@ -77,3 +77,11 @@ https://note.com/kiyo_ai_note/n/n9653e7238c49
 ## 信任中心
 
 http://club-vba.tokyo/vba-error-sinraisei/#toc5
+
+## 单元测试
+
+https://www.bernardvukas.com/testing/tutorial-excel-vba-unit-testing/
+
+rubberduck
+https://github.com/rubberduck-vba/Rubberduck/wiki/Installing
+
